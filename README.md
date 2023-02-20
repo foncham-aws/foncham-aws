@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "250px" src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbw8mdPHS1dW4vH0TqJucNkF33L7vs-bb50g&usqp=CAU)" alt="cover" />
+<img width="75%" height = "250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnx30A351V6WIx5NN6JJuEicJpKc4KmG85Ig&usqp=CAU" alt="cover" />
 </div>
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
