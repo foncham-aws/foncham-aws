@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "250px" src="https://www.techrepublic.com/wp-content/uploads/2021/07/devops-concept.jpg" alt="cover" />
+<img width="75%" height = "250px" src="[https://www.techrepublic.com/wp-content/uploads/2021/07/devops-concept.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1fmx1rbmqrxrr.cloudfront.net%2Fzdnet%2Fi%2Fedit%2Fne%2F2022%2FDevOps.jpg&imgrefurl=https%3A%2F%2Fwww.zdnet.fr%2Factualites%2Fle-devops-est-en-vogue-mais-les-pratiques-doivent-etre-ameliorees-39950212.htm&tbnid=E0iFdjSF4HRDzM&vet=10CFYQMyiQAWoXChMIwIaTvpij_QIVAAAAAB0AAAAAEAM..i&docid=JGoEsOqLTzeEZM&w=1200&h=675&q=devops&ved=0CFYQMyiQAWoXChMIwIaTvpij_QIVAAAAAB0AAAAAEAM)" alt="cover" />
 </div>
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
