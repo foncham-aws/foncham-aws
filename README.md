@@ -1,5 +1,5 @@
 <div align="center">
-<img width="75%" height = "250px" src="[[https://www.techrepublic.com/wp-content/uploads/2021/07/devops-concept.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1fmx1rbmqrxrr.cloudfront.net%2Fzdnet%2Fi%2Fedit%2Fne%2F2022%2FDevOps.jpg&imgrefurl=https%3A%2F%2Fwww.zdnet.fr%2Factualites%2Fle-devops-est-en-vogue-mais-les-pratiques-doivent-etre-ameliorees 39950212.htm&tbnid=E0iFdjSF4HRDzM&vet=10CFYQMyiQAWoXChMIwIaTvpij_QIVAAAAAB0AAAAAEAM..i&docid=JGoEsOqLTzeEZM&w=1200&h=675&q=devops&ved=0CFYQMyiQAWoXChMIwIaTvpij_QIVAAAAAB0AAAAAEAM)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi0.wp.com%2Ftechblost.com%2Fwp-content%2Fuploads%2F2020%2F01%2FWhat-is-DevOps-explained-in-layman-terms-1.png%3Ffit%3D750%252C346%26ssl%3D1&imgrefurl=https%3A%2F%2Ftechblost.com%2Fwhat-is-devops-explained-in-layman-terms-part-1%2F&tbnid=ek6JUeZYqOG8pM&vet=10CJUBEDMorQFqFwoTCMCGk76Yo_0CFQAAAAAdAAAAABAD..i&docid=b-tp5qHpq5kNfM&w=750&h=346&q=devops&ved=0CJUBEDMorQFqFwoTCMCGk76Yo_0CFQAAAAAdAAAAABAD)" alt="cover" />
+<img width="75%" height = "250px" src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbw8mdPHS1dW4vH0TqJucNkF33L7vs-bb50g&usqp=CAU)" alt="cover" />
 </div>
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <p align='center'>
