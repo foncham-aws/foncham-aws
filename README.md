@@ -6,6 +6,7 @@
 </p>
 <div size='20px'> Hello! I am Foncham Dohbila. A Cloud/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+
 - 🔭 I am currently working on Linux and DevOps Concepts/Projects
 
 - 👯 I am looking to collaborate on Anything Cloud & DevOps related 
